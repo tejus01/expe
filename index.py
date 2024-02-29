@@ -1,3 +1,2 @@
-print 'Content-Type: text/plain'
-print ' '
-print 'Hello there Chuck'
+print(Tejus Sharma)
+print(Tejus Sharma)
